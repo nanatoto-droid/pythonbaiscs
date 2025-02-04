@@ -1,0 +1,5 @@
+print("welcome to python programing")
+print("karibu")
+print(5+8)
+print("5+8")
+print("hello world")
